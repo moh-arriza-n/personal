@@ -1,0 +1,11 @@
+ECU - ENGINE CONTROL UNIT
+
+1. FUEL INJECTION
+
+Injeksi bahan bakar pada kapasitas silinder 250CC - 4 - Langkah
+INJEKSI > KOMPRESI > IGNISI > PEMBUANGAN
+
+setiap 1 siklus diatas terjadi per sekian mili detik dan digandakan dengan
+roda gigi yang bermacam ukuran dan bentuk sesuai aturan 2 roda gigi
+berbeda ukuran dan berputar pada porosnya akan mempengaruhi kecepatan kendaraan
+dan kekuatan yang dihitum dalam N/m Newton/Meter (Torsi).
